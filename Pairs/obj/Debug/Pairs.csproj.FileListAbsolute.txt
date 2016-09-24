@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\Pairs\bin\Debug\Pairs.exe.config
+E:\Development\HackerRank\HackerRank\Pairs\bin\Debug\Pairs.exe
+E:\Development\HackerRank\HackerRank\Pairs\bin\Debug\Pairs.pdb
+E:\Development\HackerRank\HackerRank\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\Pairs\obj\Debug\Pairs.exe
+E:\Development\HackerRank\HackerRank\Pairs\obj\Debug\Pairs.pdb

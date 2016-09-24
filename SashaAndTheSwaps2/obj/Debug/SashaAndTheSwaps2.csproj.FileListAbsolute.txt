@@ -1,0 +1,5 @@
+E:\Development\HackerRank\HackerRank\SashaAndTheSwaps2\bin\Debug\SashaAndTheSwaps2.exe.config
+E:\Development\HackerRank\HackerRank\SashaAndTheSwaps2\bin\Debug\SashaAndTheSwaps2.exe
+E:\Development\HackerRank\HackerRank\SashaAndTheSwaps2\bin\Debug\SashaAndTheSwaps2.pdb
+E:\Development\HackerRank\HackerRank\SashaAndTheSwaps2\obj\Debug\SashaAndTheSwaps2.exe
+E:\Development\HackerRank\HackerRank\SashaAndTheSwaps2\obj\Debug\SashaAndTheSwaps2.pdb

@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\Clique\bin\Debug\Clique.exe.config
+E:\Development\HackerRank\HackerRank\Clique\bin\Debug\Clique.exe
+E:\Development\HackerRank\HackerRank\Clique\bin\Debug\Clique.pdb
+E:\Development\HackerRank\HackerRank\Clique\obj\Debug\Clique.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\Clique\obj\Debug\Clique.exe
+E:\Development\HackerRank\HackerRank\Clique\obj\Debug\Clique.pdb

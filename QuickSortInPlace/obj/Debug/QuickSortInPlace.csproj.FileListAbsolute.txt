@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\QuickSortInPlace\bin\Debug\QuickSortInPlace.exe.config
+E:\Development\HackerRank\HackerRank\QuickSortInPlace\bin\Debug\QuickSortInPlace.exe
+E:\Development\HackerRank\HackerRank\QuickSortInPlace\bin\Debug\QuickSortInPlace.pdb
+E:\Development\HackerRank\HackerRank\QuickSortInPlace\obj\Debug\QuickSortInPlace.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\QuickSortInPlace\obj\Debug\QuickSortInPlace.exe
+E:\Development\HackerRank\HackerRank\QuickSortInPlace\obj\Debug\QuickSortInPlace.pdb

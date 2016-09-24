@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\Kangaroo\bin\Debug\Kangaroo.exe.config
+E:\Development\HackerRank\HackerRank\Kangaroo\bin\Debug\Kangaroo.exe
+E:\Development\HackerRank\HackerRank\Kangaroo\bin\Debug\Kangaroo.pdb
+E:\Development\HackerRank\HackerRank\Kangaroo\obj\Debug\Kangaroo.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\Kangaroo\obj\Debug\Kangaroo.exe
+E:\Development\HackerRank\HackerRank\Kangaroo\obj\Debug\Kangaroo.pdb

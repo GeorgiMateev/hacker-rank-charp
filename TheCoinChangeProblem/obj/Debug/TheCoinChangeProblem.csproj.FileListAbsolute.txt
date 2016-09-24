@@ -1,0 +1,5 @@
+E:\Development\HackerRank\HackerRank\TheCoinChangeProblem\bin\Debug\TheCoinChangeProblem.exe.config
+E:\Development\HackerRank\HackerRank\TheCoinChangeProblem\bin\Debug\TheCoinChangeProblem.exe
+E:\Development\HackerRank\HackerRank\TheCoinChangeProblem\bin\Debug\TheCoinChangeProblem.pdb
+E:\Development\HackerRank\HackerRank\TheCoinChangeProblem\obj\Debug\TheCoinChangeProblem.exe
+E:\Development\HackerRank\HackerRank\TheCoinChangeProblem\obj\Debug\TheCoinChangeProblem.pdb

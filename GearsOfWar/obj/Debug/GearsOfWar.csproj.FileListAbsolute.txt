@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\GearsOfWar\bin\Debug\GearsOfWar.exe.config
+E:\Development\HackerRank\HackerRank\GearsOfWar\bin\Debug\GearsOfWar.exe
+E:\Development\HackerRank\HackerRank\GearsOfWar\bin\Debug\GearsOfWar.pdb
+E:\Development\HackerRank\HackerRank\GearsOfWar\obj\Debug\GearsOfWar.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\GearsOfWar\obj\Debug\GearsOfWar.exe
+E:\Development\HackerRank\HackerRank\GearsOfWar\obj\Debug\GearsOfWar.pdb

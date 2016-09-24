@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\SherlockAndValidStrings\bin\Debug\SherlockAndValidStrings.exe.config
+E:\Development\HackerRank\HackerRank\SherlockAndValidStrings\bin\Debug\SherlockAndValidStrings.exe
+E:\Development\HackerRank\HackerRank\SherlockAndValidStrings\bin\Debug\SherlockAndValidStrings.pdb
+E:\Development\HackerRank\HackerRank\SherlockAndValidStrings\obj\Debug\SherlockAndValidStrings.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\SherlockAndValidStrings\obj\Debug\SherlockAndValidStrings.exe
+E:\Development\HackerRank\HackerRank\SherlockAndValidStrings\obj\Debug\SherlockAndValidStrings.pdb

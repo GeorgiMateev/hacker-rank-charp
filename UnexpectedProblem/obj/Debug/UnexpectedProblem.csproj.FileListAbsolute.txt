@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\UnexpectedProblem\bin\Debug\UnexpectedProblem.exe.config
+E:\Development\HackerRank\HackerRank\UnexpectedProblem\bin\Debug\UnexpectedProblem.exe
+E:\Development\HackerRank\HackerRank\UnexpectedProblem\bin\Debug\UnexpectedProblem.pdb
+E:\Development\HackerRank\HackerRank\UnexpectedProblem\obj\Debug\UnexpectedProblem.exe
+E:\Development\HackerRank\HackerRank\UnexpectedProblem\obj\Debug\UnexpectedProblem.pdb
+E:\Development\HackerRank\HackerRank\UnexpectedProblem\obj\Debug\UnexpectedProblem.csprojResolveAssemblyReference.cache

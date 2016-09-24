@@ -1,0 +1,6 @@
+E:\Development\HackerRank\HackerRank\MatrixLayerRotation\bin\Debug\MatrixLayerRotation.exe.config
+E:\Development\HackerRank\HackerRank\MatrixLayerRotation\bin\Debug\MatrixLayerRotation.exe
+E:\Development\HackerRank\HackerRank\MatrixLayerRotation\bin\Debug\MatrixLayerRotation.pdb
+E:\Development\HackerRank\HackerRank\MatrixLayerRotation\obj\Debug\MatrixLayerRotation.csprojResolveAssemblyReference.cache
+E:\Development\HackerRank\HackerRank\MatrixLayerRotation\obj\Debug\MatrixLayerRotation.exe
+E:\Development\HackerRank\HackerRank\MatrixLayerRotation\obj\Debug\MatrixLayerRotation.pdb

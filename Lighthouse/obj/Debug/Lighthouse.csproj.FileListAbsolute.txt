@@ -1,0 +1,5 @@
+E:\Development\HackerRank\HackerRank\Lighthouse\bin\Debug\Lighthouse.exe.config
+E:\Development\HackerRank\HackerRank\Lighthouse\bin\Debug\Lighthouse.exe
+E:\Development\HackerRank\HackerRank\Lighthouse\bin\Debug\Lighthouse.pdb
+E:\Development\HackerRank\HackerRank\Lighthouse\obj\Debug\Lighthouse.exe
+E:\Development\HackerRank\HackerRank\Lighthouse\obj\Debug\Lighthouse.pdb
